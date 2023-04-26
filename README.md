@@ -2,6 +2,9 @@
 This is a todo app build with html ,css , js
 
 
+Deployed Project on Web  --> https://todo-app-two-zeta.vercel.app/
+
+
 This is a simple CRUD To-Do app built with Vanilla HTML , CSS and JavaScript
 
 Dowload the code or clone it and you guys can  run it with liveserver,
